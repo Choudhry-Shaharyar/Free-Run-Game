@@ -1,0 +1,14 @@
+Unzip the folder
+Open Builds New
+Open Windows
+Open DISTANCING
+CONTROLS
+a - is to move left
+d - is to move right
+
+if you hit the mannequin you lose.
+click quit to leave
+
+MANTAIN YOUR DISTNACE AND STAY SAFE!
+
+Made By: Shaharyar Choudhry
