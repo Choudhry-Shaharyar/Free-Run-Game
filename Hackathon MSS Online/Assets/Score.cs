@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI; // allows us to write ocde for UI
+using UnityEngine.UI; // allows us to write code for UI
 
 /*
  * Author: Shaharyar Choudhry 
